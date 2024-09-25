@@ -3,4 +3,4 @@ made some changes in the second line
 
 made some changes in the fourth line
 
-made some changes in the sixth line
+sixth line changed
