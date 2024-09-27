@@ -1,3 +1,6 @@
-new line
-second line
-new line
+made some changes in the first line
+made some changes in the second line
+
+made some changes in the fourth line
+
+sixth line changed
